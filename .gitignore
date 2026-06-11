@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment files
+.env
+backend/.env
+frontend/.env
+
+# AI Engine
+aiengine/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+.idea/
